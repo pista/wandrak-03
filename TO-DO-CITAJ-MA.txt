@@ -31,3 +31,5 @@ MOB APPLIKACIA GRAFIKA:
 - Nakreslit uvod
 - Nakreslit Stranku
 - Nakreslit Point
+
++
