@@ -33,3 +33,4 @@ MOB APPLIKACIA GRAFIKA:
 - Nakreslit Point
 
 +-
+UUUU
